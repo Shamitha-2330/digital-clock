@@ -2,7 +2,7 @@
 
 A real-time digital clock web app with a neon-glow dark theme. It shows the current time, date and weekday, updating every second without a page reload.
 
-**[Live Demo](https://shamitha-2330.github.io/digital-clock/)**
+**[Live Demo](https://trydigital-clock.netlify.app)**
 
 ![Digital Clock Screenshot](scrnshot.png)
 
